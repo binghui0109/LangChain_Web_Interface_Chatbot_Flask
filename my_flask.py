@@ -13,7 +13,7 @@ from langchain.indexes.vectorstore import VectorStoreIndexWrapper
 from langchain.llms import OpenAI
 from langchain.vectorstores import Chroma
 from flask_cors import CORS
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = constants.APIKEY
 app = Flask(__name__, static_url_path='/static')
 PERSIST = True
 
