@@ -17,4 +17,7 @@ Modify the `system_template` inside `my_flask.py` based on your own need.
 
 Run the script using command `python my_flask.py`.
 
+Enter local server `Running on http://127.0.0.1:5000` to access.
+
+
 
