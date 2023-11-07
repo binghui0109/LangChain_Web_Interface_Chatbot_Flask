@@ -1,6 +1,6 @@
-# LangChain_Company_Chatbot_Flask
+# LangChain_Web_interface_Chatbot_Flask
 
-This is a python script to implement a website company Chatbot which provide assistance based on your own information.
+The project use Python to call the OpenAI API and then pass the API's output with Flask into a web interface created with JavaScript, HTML, and CSS. This allows you to build a user-friendly web application chatbot.
 
 ## Installation
 
